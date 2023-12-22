@@ -1,0 +1,20 @@
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.filters > div{
+    display: flex;
+    gap: 1rem;
+}
+
+.precio {
+    color: rgb(22, 72, 99);
+}
+
+.category {
+    color: rgb(22, 72, 99);
+}

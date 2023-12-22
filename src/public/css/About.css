@@ -1,0 +1,13 @@
+h1.about_h {
+    color: rgb(66, 125, 157);
+    text-align: center;
+}
+
+p.about {
+    color: rgb(66, 125, 157);
+}
+
+.about {
+    text-align: justify;
+    
+  }
